@@ -1,0 +1,39 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "FiveBars (RootHide / Procursus)",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Replaces the stock 4-bar cellular carrier indicator in the status bar with **up to 5 carrier bars**, including full **Dual SIM** support across both `UIKitCore` and iOS 16+ `SystemStatusUI`.\n\n### Features\n- **5 Carrier Bars**: Smoothly scales bar widths, spacing, and heights so 5 bars fit the exact bounding box of the stock 4-bar indicator.\n- **Dual SIM Support**: Supports both the top and bottom SIM rows (`_UIStatusBarDualCellularSignalView` & `STUIStatusBarDualCellularSignalView`).\n- **RootHide Native**: Built for `iphoneos-arm64e` on Procursus / RootHide."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Architecture",
+          "text": "iphoneos-arm64e (RootHide)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "Fatality"
+        }
+      ]
+    }
+  ]
+}

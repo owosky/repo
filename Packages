@@ -1,0 +1,17 @@
+Package: com.fatality.fivebars
+Name: FiveBars
+Description: Replaces status bar carrier signal bars with 5 bars, including full Dual SIM support.
+Maintainer: Fatality
+Author: Fatality
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 168
+SileoDepiction: https://repo.bigoilyguys.org/depictions/com.fatality.fivebars.json
+Filename: debs/com.fatality.fivebars_1.0.0_iphoneos-arm64e.deb
+Size: 7166
+MD5sum: d8cdccd65536f4c8e585c9064c192d36
+SHA1: 2a47f2e7ab3dcb607a399e3c9ae6a1159e1fbed3
+SHA256: aebc1d22b7b946512c73a26868e337aaf8804b6d49d92ef072998aa6789b2a73
+SHA512: e8254cbdc2f2a849a2dac8b4941577eed9c47a58a49911f47faed640f3f2eb19fb9fd9b4996e6f41b1465d1b90d9458cb4f5499e60e2b2ecaf20d6fe0708ed01
