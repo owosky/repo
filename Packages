@@ -46,8 +46,8 @@ Version: 1.1.2
 Installed-Size: 380
 SileoDepiction: https://repo.bigoilyguys.org/depictions/com.fatality.fivebars.json
 Filename: debs/com.fatality.fivebars_1.1.2_iphoneos-arm64e.deb
-Size: 22078
-MD5sum: 7d78f6d96c63c3ea64d349fea514a840
-SHA1: 2c68641ad90520c40f1a8dd799e6bdac2645388d
-SHA256: 1a06feb1c087810d86b79c046dfbac80f751da5261cb50802f3b21aa99dbbceb
-SHA512: eed61e91a2316cdd2f0e4e68370da78d0f32580dbb37bed0b5bad3c5ceda980dce2f18e91b7d875887bb3ed9f534165c7d69f5c3e918ccf6a4abea0b8a1b157f
+Size: 23048
+MD5sum: 964bd16d7b9a0c387bb5ef05eddaa563
+SHA1: 265a875f53ae5df5c03e8ad1faccae83deae12ce
+SHA256: 9ab44d31887406f9dd8bb9429e37661bfaa58d3d253bfe98cf06ee097d96252e
+SHA512: 737d4f976c8aae090b350b9bde70f18b738458adcbae89e4f72aa6d0ad809f20de5f422f266cbfef1ddb9e1f7a7f43a44f04761c53c5feca805b81de08131250
