@@ -13,7 +13,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Replaces the stock 4-bar cellular carrier indicator in the status bar with **up to 5 carrier bars**, including full **Dual SIM** support across both `UIKitCore` and iOS 16+ `SystemStatusUI`.\n\n### Features\n- **5 Carrier Bars**: Smoothly scales bar widths, spacing, and heights so 5 bars fit the exact bounding box of the stock 4-bar indicator.\n- **Dual SIM Support**: Supports both the top and bottom SIM rows (`_UIStatusBarDualCellularSignalView` & `STUIStatusBarDualCellularSignalView`).\n- **RootHide Native**: Built for `iphoneos-arm64e` on Procursus / RootHide."
+          "markdown": "Replaces the stock 4-bar cellular carrier indicator in the status bar with a **configurable number of carrier bars (3 to 10 bars)**, full **Dual SIM** support, live settings, and a **Signal & SIM Debugging Simulator**.\n\n### Features\n- **Configurable Bar Count (3–10 Bars)**: Dynamically scales `CALayer` bar widths, spacing, and heights to fit the exact stock status bar bounds.\n- **Master Toggle**: Instantly revert back to stock 4 bars.\n- **Signal & SIM Simulator**: Force Single SIM or Dual SIM layout and simulate active bars (`0–10`) or signal states (*Active*, *No Service*, *Searching*) per SIM.\n- **Sloped Secondary SIM Option**: Choose between stock flat dots or sloped bars on the bottom Dual SIM indicator.\n- **RootHide Native**: Built for `iphoneos-arm64e` on Procursus / RootHide."
         },
         {
           "class": "DepictionSeparatorView"
@@ -21,7 +21,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0.0"
+          "text": "1.1.0"
         },
         {
           "class": "DepictionTableTextView",

@@ -15,3 +15,21 @@ MD5sum: d8cdccd65536f4c8e585c9064c192d36
 SHA1: 2a47f2e7ab3dcb607a399e3c9ae6a1159e1fbed3
 SHA256: aebc1d22b7b946512c73a26868e337aaf8804b6d49d92ef072998aa6789b2a73
 SHA512: e8254cbdc2f2a849a2dac8b4941577eed9c47a58a49911f47faed640f3f2eb19fb9fd9b4996e6f41b1465d1b90d9458cb4f5499e60e2b2ecaf20d6fe0708ed01
+
+Package: com.fatality.fivebars
+Name: FiveBars
+Description: Configurable carrier signal bars (3 to 10 bars) with Dual SIM support, live settings, and SIM/signal debugging simulator.
+Maintainer: Fatality
+Author: Fatality
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Installed-Size: 380
+SileoDepiction: https://repo.bigoilyguys.org/depictions/com.fatality.fivebars.json
+Filename: debs/com.fatality.fivebars_1.1.0_iphoneos-arm64e.deb
+Size: 21774
+MD5sum: 0e1faf5eed01dc8ce9e9edd68c77cbb0
+SHA1: 33109ca053b3939d99addd958a6097b963b46609
+SHA256: 7fe6e6564bb943212578a1ca26b73a46daca91c16c25bb58ae253b87f2e88afa
+SHA512: 2785037c9ed31b95c0b5cd7ebecb92f6a2b6edccc77d8a8fa419e7010d1c02c0e91dd4514a63b287fc560b486166234dceac3718a97a6fb44f224bb994b925d6

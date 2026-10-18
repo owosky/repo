@@ -3,31 +3,31 @@ Label: Fatality's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Date: Sun, 18 Oct 2026 02:31:45 UTC
+Date: Sun, 18 Oct 2026 02:51:40 UTC
 Architectures: iphoneos-arm64e iphoneos-arm64
 Components: main
 Description: RootHide (iphoneos-arm64e) & Procursus Tweaks Repository
 MD5Sum:
- 3ffe33409bdfc4908e0b4e1cc4160091              758 Packages
- c8d37506d67f287c8bbabd6e245d7162              521 Packages.gz
- 46bc26e6ce53af928ff0f419002de8f9              577 Packages.bz2
- 0c9bfd46ae252d58e088b20f3d18a8cb              580 Packages.xz
- b8ba2bf2604f6346cbd55ac026ab2d82              518 Packages.zst
+ 57ba0c50374841d828c907d903820365             1572 Packages
+ 0ce4c55a218d715cfd274b1357c0f32c              794 Packages.gz
+ 84423e65c3de1fc02c879caa7c47ab44              900 Packages.bz2
+ 072dd498facb5a0fe7cd0c720a72fcaa              844 Packages.xz
+ a94f1984c6d8f75aeed2e3db99511255              782 Packages.zst
 SHA1:
- 3b27ce5699bb8ab00f14c1174b255a27cfc7ac05              758 Packages
- 65261ae4747aa752f75565ab67623a18ca1bb2c8              521 Packages.gz
- 8e98fe62707012b6107df6a0e440f5269f148f7a              577 Packages.bz2
- 462fee30b8e9d7f0d9d8a4a2f10a34137304ce96              580 Packages.xz
- 0139ec42b3ccfc17bc4bc3de5e20b7b6f41deb12              518 Packages.zst
+ 702d0375ecb82ea0f6a80b02120bfd15766505cc             1572 Packages
+ e5a72e4a75965fa90a0bfe7f27630cf380cb1ce3              794 Packages.gz
+ bcdfc98aecab3e6e30d2947fc1ea8a2034790093              900 Packages.bz2
+ 44f5cb39d50b734963ba9e279393cec928add925              844 Packages.xz
+ 1ee157b61c32aeaddfa744541313cd0c9ccb7ade              782 Packages.zst
 SHA256:
- 92bd0b4dfc49e165e2e150135ec93f6a24a5e5c42252362b8c06700ca785c626              758 Packages
- 0e92a054fc8d7f7b4fb2fa5c15d7c31abee69a2e87f7726651bc6fc67b4bf44a              521 Packages.gz
- 60d890e9a08eef12ef7b04d9a4c057c6040fa27fdd6741fc1c2752249afff003              577 Packages.bz2
- bd645b7ada75cdab1dddb575e925a93f20d21b6dbf353a472c29806fc7d9e3de              580 Packages.xz
- 3bee4a827fabf84c24d8e549ca4c5cdea2a496b177aeb955a9daaaa190350ae9              518 Packages.zst
+ c3cdbc6b5636eb707bcbf005fdfd999b7c4481a14c01f4c06a2a12720530ffe9             1572 Packages
+ 495f0a33e96777990fa07b83391021d04f65fbc0fe417865f49abc41e0dc11f5              794 Packages.gz
+ df367e2344757864dea523a513b7ddbd7c1bca0a9251872ca71bc61e9b237399              900 Packages.bz2
+ 8b8efa6d82f5860bb889a40caaaf325a8d44293b00dc7bc2c67f7cf13d7fe8dd              844 Packages.xz
+ 2cd746d7a68f1b4444fe16377d3e8ab1e1c37b9025345d68711c2bd7cd37eefa              782 Packages.zst
 SHA512:
- 70a19f77f130f806fc9c4a6339ad928e98af422be57296963dfc43ed971e800805ec0052f7e30936e150f6f86b44b7923c57f1af85476c9de309ef10390600ca              758 Packages
- c2d2d5cc6ceb6c95abfb2b0a2bc81f7aad34bcb9c5246efbfe9e5e85b323494c9da7ce9b62a5a6a78227ab74af9d640df7d89b5b8801f801f461479728fc678f              521 Packages.gz
- d6558b2b41139d50655a49c05c3310291daf4883d36cf890e692016bc70b6e470b830f75ea33670df4f110c33b7439e7686194268cdca0853e59bfdaab88454e              577 Packages.bz2
- 4ec9791d74be5111d752a1fea039ea7d58e09a5ea5da4208a2d39529986beaa88095f7bf9848faca9ecc53776298def246559bf0197327e470145008f18e3cca              580 Packages.xz
- aba1775437c0ab40aab62f5b82220dbc4b63f338ae6c143e3e87f5db1ffcab5280783a4a2f375aaa2d893023bf994c3ad9866d011c16b85326ffb6442b9236b0              518 Packages.zst
+ d068ed17a32920a2e186ccff074b10f0b446a87e27e5b54793652147cec0dd9b53e3b0d0020ab39417de322884562c58d42ca71890927d0f5723a4a5c75df1f7             1572 Packages
+ 6b7fb17e0dea77512424caec04ad927346f471b22e6da6b8112baadaf71a4b98a72aa2989ef59d8c944a56b6f83bb062ee10a6420b8b8cc0ce9e29aa67c7dac9              794 Packages.gz
+ e34459fd1a992849e031fc832e24b07fe07add8bc0e59cf813a619a914b4bcabcd6104c45cef7ffa5a56c1ff0d7e4d2d829fc02cd71792bd2ebf30c4e17e372c              900 Packages.bz2
+ a1e9b0992877f1bd011dbcc793ae2168b057b913e85c34be1a9e9c35d01f02efa51eb792d3329186dd7c7992f08576b17f2b7961f48220972fccefb28a28cb56              844 Packages.xz
+ 1abdd02ad66caf1acc91fb280c16294f85a7230a4e02b36c44bedb5fda55c6e306a43a3b29edf24a146c7ebc039be8c54fa2d5bb23dbb5e3b20cb8ba29e2ffd2              782 Packages.zst
